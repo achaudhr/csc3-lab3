@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<algorithms>
+	<algorithm name="QuickSort">
+		<input>
+			<int>72</int>
+			<int>62</int>
+			<int>23</int>
+			<int>22</int>
+			<int>32</int>
+			<int>24</int>
+			<int>288</int>
+			<int>542</int>
+			<int>23</int>
+			<int>2321</int>
+			<int>12</int>
+		</input>
+	</algorithm>
+</algorithms>
